@@ -1,2 +1,2 @@
-# odin-recipes
-following along The Odin Project's webdev course
+# ToP_odin-recipes
+basic html practice project from The Odin Project
